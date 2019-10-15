@@ -1,0 +1,13 @@
+# editorconfig.org
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true    # 这里你修改试试 false，会将行最后的空格保留
+insert_final_newline = true
+
+[*.md]  #针对不同文件的不同配置
+trim_trailing_whitespace = false

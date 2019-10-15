@@ -1,0 +1,13 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "editor.wordWrap": "on",
+  "files.eol": "\n",
+  "files.trimTrailingWhitespace": true,
+  "watch-run.targetList": [
+    {
+      "target": "package.json\\d+",
+      "task": "update_pkg"
+    }
+  ],
+  "maven.view": "hierarchical"
+}
