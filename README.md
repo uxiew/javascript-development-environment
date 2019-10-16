@@ -2,4 +2,7 @@
 
 构建完整的前端工程 kit。
 
-来自：https://www.pluralsight.com/authors/cory-house
+
+# REFs
+https://www.pluralsight.com/authors/cory-house
+https://github.com/coryhouse/javascript-development-environment
